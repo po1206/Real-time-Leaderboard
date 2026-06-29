@@ -33,7 +33,7 @@ https://roadmap.sh/projects/realtime-leaderboard-system
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Mehran-tr/Real-time-Leaderboard.git
+git clone https://github.com/po1206/Real-time-Leaderboard.git
 cd real-time-leaderboard
 ```
 
